@@ -2,3 +2,5 @@ bin/
 obj/
 .vs/
 .vscode/
+Module-04-NUnit-Moq/CalcLibrary/
+Module-05-EFCore/RetailInventory/
