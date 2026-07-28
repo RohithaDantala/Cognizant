@@ -1,0 +1,17 @@
+# Build folders
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Ignore Git demo
+GitDemo/
+
+# Ignore student course portal
+DeepSkilling/student-course-portal/
+
+# Existing ignored projects
+DeepSkilling/Module-04-NUnit-Moq/CalcLibrary/
+DeepSkilling/Module-05-EFCore/RetailInventory/
